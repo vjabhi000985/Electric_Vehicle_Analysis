@@ -22,7 +22,7 @@ pip install pandas matplotlib seaborn plotly`
 ![Screenshot (346)](https://github.com/user-attachments/assets/d65f379c-3120-43f4-85df-2cc63827ffe5)
 
 - Racing Bar Plot: Animates the growth of different EV makes over time.
-![Watch the demo here](https://github.com/user-attachments/assets/39cdadd8-3aa9-4ef3-aa97-36c6e4b9a0a2)
+!![thumbnail](https://github.com/user-attachments/assets/a7d4a11f-3635-4087-9036-63ee3343d66b)([Watch the demo here](https://github.com/user-attachments/assets/39cdadd8-3aa9-4ef3-aa97-36c6e4b9a0a2))
 
 
 ## Insights:
