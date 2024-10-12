@@ -22,8 +22,7 @@ pip install pandas matplotlib seaborn plotly`
 ![Screenshot (346)](https://github.com/user-attachments/assets/d65f379c-3120-43f4-85df-2cc63827ffe5)
 
 - Racing Bar Plot: Animates the growth of different EV makes over time.
-!![thumbnail](https://github.com/user-attachments/assets/a7d4a11f-3635-4087-9036-63ee3343d66b)(https://github.com/user-attachments/assets/39cdadd8-3aa9-4ef3-aa97-36c6e4b9a0a2)
-
+![ezgif-3-92fcfd2cd2](https://github.com/user-attachments/assets/66e01617-ac8d-4b0f-93d8-f7f1eb071a7f)
 
 ## Insights:
 - BEV Dominance: BEVs are more popular than PHEVs.
